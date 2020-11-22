@@ -1,0 +1,6 @@
+hosermes/msscservice/web/model/BeerPageList.class
+hosermes/msscservice/MsscServiceApplication.class
+hosermes/msscservice/web/model/BeerDto$BeerDtoBuilder.class
+hosermes/msscservice/web/model/BeerStyleEnum.class
+hosermes/msscservice/web/model/BeerDto.class
+hosermes/msscservice/web/controller/BeerController.class

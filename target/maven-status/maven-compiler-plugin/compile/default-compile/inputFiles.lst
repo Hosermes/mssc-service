@@ -1,0 +1,5 @@
+/home/hosermes/javaprojs/guru/mssc/src/main/java/hosermes/msscservice/MsscServiceApplication.java
+/home/hosermes/javaprojs/guru/mssc/src/main/java/hosermes/msscservice/web/model/BeerPageList.java
+/home/hosermes/javaprojs/guru/mssc/src/main/java/hosermes/msscservice/web/model/BeerDto.java
+/home/hosermes/javaprojs/guru/mssc/src/main/java/hosermes/msscservice/web/controller/BeerController.java
+/home/hosermes/javaprojs/guru/mssc/src/main/java/hosermes/msscservice/web/model/BeerStyleEnum.java
